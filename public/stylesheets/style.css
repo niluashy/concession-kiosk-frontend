@@ -47,6 +47,10 @@ body {
   margin-top: -5px;
 }
 
+.form-row img.fries {
+  margin-top: 10px;
+}
+
 .form-row input {
   margin-right: 30%;
   width: 30px;
